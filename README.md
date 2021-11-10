@@ -17,9 +17,10 @@
 
 ## Goals at the end of 100th Day and beyond. 
 
-- [ ] Enjoy
-- [ ] Learn the fundamentals
+- [ ] Enjoy the learning process.
+- [ ] Learn the fundamentals.
 - [ ] Be comfortable in writing code. (can be applied to any programming languages)
-- [ ] Make a simple network mapper (like nmap)
-- [ ] C2 server written in go
+- [ ] Make a simple network mapper (like nmap).
+- [ ] Learn Web Development using Go.
+- [ ] C2 server written in go.
 - [ ] *insert any project ideas here*
