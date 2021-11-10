@@ -4,15 +4,15 @@
 
 1. Getting easily bored when learning.
 
-*Fix: Make small and manageable goals every day and reward yourself after achieving such goals.*
+	*Fix: Make small and manageable goals every day and reward yourself after achieving such goals.*
 
 2. "That was easy!" mindset in tackling the basics of programming.
 
-*Fix: Basics are the foundation of learning.*
+	*Fix: Basics are the foundation of learning.*
 
 3. Gets easily discouraged by mistakes and failures.
 
-*Fix: We learn by mistakes. Do not let failures let you down instead learn from them.*
+	*Fix: We learn by mistakes. Do not let failures let you down instead learn from them.*
 
 
 ## Goals at the end of 100th Day and beyond. 
