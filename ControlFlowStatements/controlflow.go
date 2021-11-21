@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	// we can use , ok statements to query a map and check in an if conditional block.
@@ -65,19 +67,22 @@ func main() {
 		fmt.Println("Invalid choice length!")
 	}
 
-	/* Type Switch
-	var testType interface{}
-	fmt.Print("Enter 1 character and I will tell you about the type of your input: ")
-	fmt.Scanf("%v", &testType)
+	checkType(2321.23212356)
 
-	switch testType.(type) {
+}
+
+// checkType Function for type switch
+func checkType(a interface{}) {
+
+	switch a.(type) {
+
 	case int:
-		fmt.Printf("Type: %v\n", testType)
-	case float64:
-		fmt.Printf("Type: %v\n", testType)
+		fmt.Println("Type: int")
 	case string:
-		fmt.Printf("Type: %v\n", testType)
+		fmt.Println("Type: string")
+	case float64:
+		fmt.Println("Type: float64")
 	default:
-		fmt.Println("I don't know :(")
-	}*/
+		fmt.Println("unknown type")
+	}
 }
