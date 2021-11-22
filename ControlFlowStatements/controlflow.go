@@ -66,16 +66,13 @@ func main() {
 	} else {
 		fmt.Println("Invalid choice length!")
 	}
-
-	checkType(2321.23212356)
-
+	checkType("123")
 }
 
 // checkType Function for type switch
 func checkType(a interface{}) {
 
 	switch a.(type) {
-
 	case int:
 		fmt.Println("Type: int")
 	case string:
