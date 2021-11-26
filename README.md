@@ -5,11 +5,10 @@
 1. Getting easily bored when learning.
 <details><summary>Possible Solution</summary>
   Fix: Make small and manageable goals every day and reward yourself after achieving such goals.
-</p>
 </details>
 
 2. "That was easy!" mindset in tackling the basics of programming.
-<details><summaryPossible Solution</summary>
+<details><summary>Possible Solution</summary>
  *Fix: Basics are the foundation of learning.*
 </details>
 
