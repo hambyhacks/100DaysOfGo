@@ -3,16 +3,20 @@
 ## Problems to address when learning
 
 1. Getting easily bored when learning.
-
- *Fix: Make small and manageable goals every day and reward yourself after achieving such goals.*
+<details><summary>Possible Solution</summary>
+  Fix: Make small and manageable goals every day and reward yourself after achieving such goals.
+</p>
+</details>
 
 2. "That was easy!" mindset in tackling the basics of programming.
-
+<details><summaryPossible Solution</summary>
  *Fix: Basics are the foundation of learning.*
+</details>
 
 3.Gets easily discouraged by mistakes and failures.
-
- *Fix: We learn by mistakes. Do not let failures let you down instead learn from them.*
+<details><summary>Possible Solution</summary>
+ Fix: We learn by mistakes. Do not let failures let you down instead learn from them.
+</details>
 
 ## Goals at the end of 100th Day and beyond
 
