@@ -20,7 +20,7 @@
   ```
 </details>
 
-3.Gets easily discouraged by mistakes and failures.
+3. Gets easily discouraged by mistakes and failures.
 <details><summary>Possible Solution</summary>
   
   ```bash
