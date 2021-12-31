@@ -7,7 +7,7 @@ func SquareOfSum(n int) int {
 	for i := 1; i <= n; i++ {
 		sum = (i * (i + 1) / 2)
 	}
-	return int(math.Pow(float64(sum), 2))
+	return sum * sum
 }
 
 func SumOfSquares(n int) int {
